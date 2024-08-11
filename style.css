@@ -1,0 +1,22 @@
+html {
+    font-size: 24px;
+}
+
+h2 {
+    padding: 0 30px;
+    font-size: 25px;
+}
+
+.btn {
+    padding: 10px 18px;    
+    font-size: 16px;
+    color: #fff;
+    background-color:  #294662;;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0a141e;
+}
